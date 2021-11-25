@@ -1,0 +1,47 @@
+body {
+    background-color: #FAFAFA;
+}
+
+.container {
+    max-width: 1504px;
+}
+
+.bom {
+    background-color: white;
+    height: 400px;
+    margin-bottom: 24px;
+    position: relative;
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.05);
+}
+
+.bim {
+    background-color: white;
+    height: 540px;
+    margin-bottom: 24px;
+    position: relative;
+    margin-right: 24px;
+    max-width: 740px;
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.05);
+}
+
+.bem {
+    background-color: white;
+    height: 540px;
+    margin-bottom: 24px;
+    position: relative;
+    max-width: 740px;
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.05);
+}
+
+.bam {
+    background-color: white;
+    height: 500px;
+    margin-bottom: 24px;
+    position: relative;
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.05);
+}
+
+.source {
+    position: absolute;
+    bottom: 10px;
+}
