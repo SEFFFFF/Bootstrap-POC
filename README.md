@@ -9,7 +9,7 @@ It is partly made to practice using bootstrap but primarily to make a responsive
 
 ## Final product
 
-Link: https://i459914.hera.fhict.nl/challenge%202/
+Link: https://robbiemuit.nl/projects/waarnemingen/eindhoveninsight/
 
 
 
